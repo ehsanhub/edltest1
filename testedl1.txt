@@ -1,0 +1,4 @@
+*.cp24.com
+*.facebook.com
+*.cnn.com
+*.cbc.ca
